@@ -1,5 +1,4 @@
 # AWS-Data-Engineering-Pipeline-Delivery-Analytics
-# **Delivery Insights: AWS Data Engineering Project**
 
 This project demonstrates an end-to-end data engineering workflow using AWS services. It focuses on analyzing delivery performance, customer satisfaction, discount strategies, and shipment modes by leveraging **Amazon S3**, **AWS Glue**, **Amazon Athena**, and **Amazon QuickSight**.
 
@@ -23,7 +22,7 @@ Raw Dataset → Amazon S3 → AWS Glue (Crawler & ETL) → Athena SQL Queries �
 
 ----
 
-## 🔧 **Tools & Services Used**
+##  **Tools & Services Used**
 
 | **Layer**             | **Tool**              | **Purpose**                                 |
 |-----------------------|-----------------------|---------------------------------------------|
@@ -35,7 +34,7 @@ Raw Dataset → Amazon S3 → AWS Glue (Crawler & ETL) → Athena SQL Queries �
 
 ---
 
-## 📅 **Dataset**
+## **Dataset**
 
 - **Source:** [Kaggle – Delivery Time Prediction Dataset](https://www.kaggle.com/datasets/prachi13/customer-analytics)  
 - **Fields include:** `mode_of_shipment`, `product_importance`, `discount_offered`, `customer_rating`, `prior_purchases`, `on_time`, etc.  
