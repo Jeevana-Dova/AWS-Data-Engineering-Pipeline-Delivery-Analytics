@@ -72,15 +72,5 @@ Raw Dataset → Amazon S3 → AWS Glue (Crawler & ETL) → Athena SQL Queries �
 - Ratings vs mode of shipment (heatmap)  
 - Delivery timeliness by warehouse  
 
- [View Screenshots](./quicksight/dashboard_screenshots)
-
----
-
-## **Dashboard Access**
-
- Dashboard is private.  
- **Screenshots provided instead.**  
-> [Click to view dashboard screenshots](./quicksight/dashboard_screenshots)
-
 ---
 
